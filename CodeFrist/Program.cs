@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using CodeFrist;
+
+var Ef = new EFDataConText();
+foreach (var item in Ef.Students)
+{
+    if (item == null)
+    {
+        Console.WriteLine("NULl");
+    }
+    Console.WriteLine(item.FirstName);
+}
