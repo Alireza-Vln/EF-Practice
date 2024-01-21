@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFrist", "CodeFrist\CodeFrist.csproj", "{996E0E11-BA46-4CA6-A83D-8CA2EAA1817D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{996E0E11-BA46-4CA6-A83D-8CA2EAA1817D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{996E0E11-BA46-4CA6-A83D-8CA2EAA1817D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{996E0E11-BA46-4CA6-A83D-8CA2EAA1817D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{996E0E11-BA46-4CA6-A83D-8CA2EAA1817D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0757F60B-6C42-404C-89A8-52C4DC6A83FA}
+	EndGlobalSection
+EndGlobal
